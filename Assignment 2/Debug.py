@@ -32,8 +32,8 @@ def main():
 
     #more multiple correct answers. Similar to the first. Adjust as perceived 
     toCheck = 4
-    if toCheck > 5:
-        print(toCheck, "is greater than 5.")
+    if toCheck > 4:
+        print(toCheck, "is greater than 4.")
     elif toCheck < 4:
         print(toCheck)
     else:
