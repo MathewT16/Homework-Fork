@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="803ba4cd-2e60-4c8e-b8ab-b0b67601dd8e" name="Changes" comment="kl">
+    <list default="true" id="803ba4cd-2e60-4c8e-b8ab-b0b67601dd8e" name="Changes" comment="Update double_int_list_practice.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 2.5/Debug.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 2.5/Debug.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 2.5/Number Conversion Practice.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 2.5/Number Conversion Practice.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 2.5/double_int_list_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 2.5/double_int_list_practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 2.5/if_else_sign_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 2.5/if_else_sign_practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 3/Debug.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 3/Debug.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 3/if_else_loop_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 3/if_else_loop_practice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662654787893</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update double_int_list_practice.py">
+      <created>1664116439590</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664116439590</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +134,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="kl" />
-    <option name="LAST_COMMIT_MESSAGE" value="kl" />
+    <MESSAGE value="Update double_int_list_practice.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update double_int_list_practice.py" />
   </component>
 </project>
