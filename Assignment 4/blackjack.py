@@ -17,6 +17,7 @@ def bust(num1,num2,num3):
     
 def main():
     num1 = int(random.random() * 11) + 1
+    # or random.randint(1,11)
     num2 = int(random.random() * 11) + 1
     num3 = int(random.random() * 11) + 1
 
